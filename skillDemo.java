@@ -1,3 +1,7 @@
 public class skillDemo{
-//visual stuido
+
+public void modulous()
+{
+    assertEquals(0, skill.demo)
+}
 }
